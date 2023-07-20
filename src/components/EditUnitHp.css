@@ -1,0 +1,10 @@
+.EditUnitHp {
+    margin-top: 0;
+}
+
+.EditUnitHp input{
+    width: 80px;
+    align-self: flex-end;
+    border-radius: 8px;
+    height: 15px;    
+}
