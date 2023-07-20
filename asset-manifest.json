@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DnD-Unit-HP-calculator-extended/static/css/main.859013fc.css",
+    "main.js": "/DnD-Unit-HP-calculator-extended/static/js/main.9b020138.js",
+    "index.html": "/DnD-Unit-HP-calculator-extended/index.html",
+    "main.859013fc.css.map": "/DnD-Unit-HP-calculator-extended/static/css/main.859013fc.css.map",
+    "main.9b020138.js.map": "/DnD-Unit-HP-calculator-extended/static/js/main.9b020138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.859013fc.css",
+    "static/js/main.9b020138.js"
+  ]
+}
